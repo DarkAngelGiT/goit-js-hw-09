@@ -1,6 +1,4 @@
 // Посилання на кнопки
-// const btnStartRef = document.querySelector('[data-start]');
-// const btnStopRef = document.querySelector('[data-stop]');
 const refs = {
   btnStartRef: document.querySelector('[data-start]'),
   btnStopRef: document.querySelector('[data-stop]'),
